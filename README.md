@@ -2,13 +2,13 @@
 
 This page is destiny to describe my projects, skills, and informations about my career. Check the content that I created in the Simplificando Redes site and Youtube channel.
 
-**Linkedin:** https://www.linkedin.com/in/juliana-mascarenhas-00349426/
+**Linkedin:** [link] https://www.linkedin.com/in/juliana-mascarenhas-00349426/
 
-**Youtube Channel:** https://www.youtube.com/simplificandoredes
+**Youtube Channel:** [link] https://www.youtube.com/simplificandoredes
 
-**Site:** www.simplificandoredes.com/en/
+**Site:** [link] www.simplificandoredes.com/en/
 
-**Github repositories:** https://github.com/julianazanelatto?tab=repositories
+**Github repositories:** [link] https://github.com/julianazanelatto?tab=repositories
 
 
 ### Main are
