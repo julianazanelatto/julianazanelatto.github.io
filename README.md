@@ -1,15 +1,20 @@
-## Juliana Mascarenhas
+## Sites and Social Medias
 
-You can use the [editor on GitHub](https://github.com/julianazanelatto/julianazanelatto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page is destiny to describe my projects, skills, and informations about my career. Check the content that I created in the Simplificando Redes site and Youtube channel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Linkedin:** https://www.linkedin.com/in/juliana-mascarenhas-00349426/
+**Site:** www.simplificandoredes.com/en/
+**Youtube Channel:** https://www.youtube.com/simplificandoredes
 
-### Markdown
+**Github repositories:** https://github.com/julianazanelatto?tab=repositories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Main are
+
+Data Science and Java Programming focus on Spring Boot.
 
 ```markdown
-Syntax highlighted code block
+Others skills
 
 # Header 1
 ## Header 2
