@@ -1,3 +1,9 @@
+I'm a content creator at @SimplificandoRedes. My goal is delevery pertinent content about the computing world, such as Java spring, Blockchain, RabbitMQ, complex network modeling, and more. These and anothers subjects are available on the Youtube Channel, and site www.simplificandorede.com/en.
+
+  My main area of expertise is based on data science. Especifically, focus on modeling computing with complex networks.
+  Therefore, i'm aible to solve real-world problems. One section of this current page decribe this kind of work. I'm also a reasercher. Holding a master degree in Computational Modeling from the National Laboratory for Scientific Computing (LNCC/MCTIC) - www.lncc.br. Consequently, i need to be a programmer. So, i focus on Python, and Java (focus on Spring boot) programming languages.
+ 
+
 ## Sites and Social Medias
 
 This page is destiny to describe my projects, skills, and informations about my career. Check the content that I created in the Simplificando Redes site and Youtube channel.
@@ -10,10 +16,6 @@ This page is destiny to describe my projects, skills, and informations about my 
 
 **Github repositories:** [link] https://github.com/julianazanelatto?tab=repositories
 
-
-### Main are
-
-Data Science and Java Programming focus on Spring Boot.
 
 ```markdown
 Others skills
